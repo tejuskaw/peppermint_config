@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Peppermint Update
+Comment=Simple Update Shortcut
+Type=Application
+Exec=xfce4-terminal -e ./sysupdate.sh
+Icon=system-software-update
+Path=/opt/pypep
+Terminal=false
+StartupNotify=false

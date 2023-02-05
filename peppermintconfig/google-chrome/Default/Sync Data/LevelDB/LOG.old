@@ -1,0 +1,6 @@
+2023/02/05-09:20:43.216 31b Reusing MANIFEST /home/kaw/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/02/05-09:20:43.216 31b Recovering log #3
+2023/02/05-09:20:43.539 31b Reusing old log /home/kaw/.config/google-chrome/Default/Sync Data/LevelDB/000003.log 
+2023/02/05-09:31:50.498 c4e Level-0 table #5: started
+2023/02/05-09:31:50.701 c4e Level-0 table #5: 137144 bytes OK
+2023/02/05-09:31:50.784 c4e Delete type=0 #3

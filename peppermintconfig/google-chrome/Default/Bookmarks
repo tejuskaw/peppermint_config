@@ -1,0 +1,136 @@
+{
+   "checksum": "c6bccae13ff672d58d6788103019421e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13319211875737267",
+            "date_last_used": "0",
+            "guid": "f1524cfc-b7b1-48df-ac5f-bf20999017fb",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "MATLAB Home",
+            "type": "url",
+            "url": "https://matlab.mathworks.com/"
+         }, {
+            "date_added": "13319215100993638",
+            "date_last_used": "0",
+            "guid": "de5a8d50-f0dc-4ba0-a393-b8cfc279771a",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - Western-OC2-Lab/Intrusion-Detection-System-Using-CNN-and-Transfer-Learning: Code for intrusion detection system (IDS) development using CNN models and transfer learning",
+            "type": "url",
+            "url": "https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-CNN-and-Transfer-Learning"
+         }, {
+            "date_added": "13319532102880425",
+            "date_last_used": "0",
+            "guid": "78eb75ca-0f08-4e6c-8718-b9c5234fb5d3",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "What Is the BRAIN Initiative Mapping Project?",
+            "type": "url",
+            "url": "https://www.verywellhealth.com/what-is-the-brain-initiative-mapping-project-4688649"
+         }, {
+            "date_added": "13319651521802359",
+            "date_last_used": "0",
+            "guid": "5cb789c1-1f40-4320-bd33-a84c632882ed",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Bayesian Belief Networks: An Introduction In 6 Easy Points",
+            "type": "url",
+            "url": "https://www.jigsawacademy.com/blogs/data-science/bayesian-belief-network"
+         }, {
+            "date_added": "13319738858575457",
+            "date_last_used": "0",
+            "guid": "9529e806-5727-4168-8b94-e169793b6862",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Automatically Change Color Scheme of Your Linux Terminal Based on Your Wallpaper",
+            "type": "url",
+            "url": "https://itsfoss.com/pywal/"
+         }, {
+            "date_added": "13319815264379623",
+            "date_last_used": "0",
+            "guid": "4d122ede-fd38-4f03-906d-b7888ae3f319",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Watch Free Movies Online - YooYouTube",
+            "type": "url",
+            "url": "https://yooyoutube.com/"
+         }, {
+            "date_added": "13319999693617502",
+            "date_last_used": "0",
+            "guid": "55f2ebf6-bc8f-457d-b5d4-77fd1fdc2876",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Install and configure Openbox (Arch linux update) | by Miguel Sampaio da Veiga | Hacker Toolbelt | Medium",
+            "type": "url",
+            "url": "https://medium.com/hacker-toolbelt/install-and-configure-openbox-f326790bdb08"
+         }, {
+            "date_added": "13320002159616795",
+            "date_last_used": "13320042999395791",
+            "guid": "1c951540-31f5-42a1-b42c-3dddbe2cd5fa",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Network Intrusion Detection - Demo | Kaggle",
+            "type": "url",
+            "url": "https://www.kaggle.com/code/docxian/network-intrusion-detection-demo#Predict-on-test-set"
+         }, {
+            "date_added": "13320043493037952",
+            "date_last_used": "0",
+            "guid": "b1b93c36-f871-4e32-9a0b-18f88e5ad566",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "LUFlow Network Intrusion Detection Data Set | Kaggle",
+            "type": "url",
+            "url": "https://www.kaggle.com/datasets/mryanm/luflow-network-intrusion-detection-data-set/versions/88?resource=download-directory"
+         } ],
+         "date_added": "13319999162738673",
+         "date_last_used": "0",
+         "date_modified": "13320043493037952",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13319999162738681",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13319999162738686",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CpECCvABCIiBAhLpARJSCAISTgoGCgJibRABEDMaEgkADBwB7PMFACEADBwB7PMFACIUCSwQZwTs8wUAEAEZS6Ipi3c/hSAyGAoWCAIRiPRcEezzBQAYACEAAAAAAAAAACAASMrRi/7hMHDK0Yv+4TCSAX0KNAoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJCDxdEezzBQARCDxdEezzBQApCDxdEezzBQAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgkAodYL7PMFABEAodYL7PMFACn2GV0R7PMFADCAwtrewP38AroBAggBEgAgASoYSGdqT0Qyc0JjaS82ZUcyZEdhdDd1QT09EuwBCAUS5wEKHHBCSllEa3lRSElpS3U0S3FzV1NwYmNmdXE4dz0SZlo6QURxdEFaeUEwb1IyaWtOb0JvK1lHOUtuMTlKZWZuTUM1My9BZlBVZ0ZTb0RTSmlxWlIzYTl5M3ZieXdnQ3FRZENaak9wdFdtUUI0T3o0TGd1Nk1PUWdXak82NWFJbnUxRnc9PRgAIAEoATCznPffvf38Ajia09T94TBAmtPU/eEwShxGMVZNWTkvMWpnVDFQS0xOWGJPNFFqYVRkM1E9Wh8iHftZMzNVdkl2WFIvT0FmaW5qcmdVaVhYMDZJUDg9ZVuFQ2MS7AEIBxLnAQocQjN1UDBWTEtyNGFuVTlWTmtUNStzeXU2TUhNPRJmWjpBRHF0QVp5QTBvUjJpa05vQm8rWUc5S24xOUplekdqRXVlUFptSFVpZForODRzemRMellUNFJWZzBQb05zK05DRElFcjhOV3U4Y3EvcDJyNTNONWppMU04SlN0RlFoZ1ozQT09GAAgASgBMLOc99+9/fwCOJrT1P3hMECa09T94TBKHDVscHFYbnlJcTB6cnRrdmlPL1VUdHhjRjAxbz1aHyId/UtvcGEwSjIwOUVVdXVMNzZuRS9sZHhqTjFWST1lECr/IhLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnlJbkJEbVFxQ01Fdi96b1EyZXoxWDJCbGtiSmlzUjljbmRGRitEWDV6SmZiaVBWN2FhT0dtTVVBRThidEZBWXkvektXMDdiVWhNTkl6Z0hJNmRnd3YrT3BwT01RPT0YACAAKAAwhces3L39/AI4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABLsAQgMEucBChx2Ty91bnA1TmhuMGxCZ3JCWS8wNVZka01uMm89EmZaOkFEcXRBWnlBMG9SMmlrTm9CbytZRzlLbjE5SmVEQXBjeG5pWWZXWDNySjV5cHRQdlh0M3dQcFdsYkNFaElUT2wyazdMbnE0WXFZQUIvMWU2UUtkYnViNy9PeTFhc3h4U1ZnPT0YACACKAIwxvz/4L39/AI4i5qKw+AwQKvd1P3hMEocUm1sZkVrTEc1KzRPdWQ4TWxHRlFKN0xZTW1zPVofIh3eU3Zqb1BCQkg3SmUrWm80Ty9QcnlPSnYwRlcwPWVx2Gz8EuwBCA8S5wEKHDZraks4NUd4RnRhaThOcDArT3VUcE9qOHNCZz0SZlo6QURxdEFaeUEwb1IyaWtOb0JvK1lHOUtuMTlKZWMwS21IcnFITk9WdDFzT2lPYmxaUS9INVpvUlNNa2hEV2haNkRQdkU0Yk10WjBZZ3gxcFhxc2VSSTdrOHFXRFFYNmM4aGc9PRgAIAIoAjCroJyjwP38Ajiunf794TBAs53+/eEwShw4c1hpWXNVQWFtSUZ5aUQ4MmFNV1hsQis5Njg9Wh8iHf45YytDZDIvVlJtTVJwVnNsUitRNnlUamZ5WHc9ZRAq/yIS7AEIDhLnAQocR1BSdVBSWk5UNkNCQllnRHNzMUEzQXFzL09rPRJmWjpBRHF0QVp5QTBvUjJpa05vQm8rWUc5S24xOUplamQ2K0U2M3I5b25SWVNDdEtFWEpvcUpZM3FDaTErc2xXUWdNNnlIVVFUcTJaMWw1dUlaWGxUTjArT05WUnNBbXhrdC85Zz09GAAgAigCMMb8/+C9/fwCOP2glJHhMECs3dT94TBKHGxXYWJqVnF5eUpFQzJ1ZitablB4eEtxZGtocz1aHyId90pqRFBBWlRSZWEzVXVpUTEyRU9VOXhCbXVUND1lFSEidhLsAQgNEucBChxuTXNCTlFKdzhPWS9Lb0MrVFBmYTRkaFVuZTg9EmZaOkFEcXRBWnlBMG9SMmlrTm9CbytZRzlLbjE5SmVZYjBlTWZkdlU1WXFCYXNWQkdjc01UcDV6OVFxVVUySHBzaVpFVW9vb0dxb2k4dWx0cHlhRCtMMTE4allJN1FMTzZnb093PT0YACACKAIwxvz/4L39/AI40ejc7OAwQKzd1P3hMEocU3Z4TzJnL3B3ZlF3Z2NqZ0piamtXejF0OXEwPVofIh3vNWVZdWtQM3czSjFFZ3p3dGNnTU9oTUE3L3BvPWUmJMgBEuwBCAsS5wEKHEl0S25BcjQwckNYYWhISGk2NTZRVlJJV1d1Yz0SZlo6QURxdEFaeUEwb1IyaWtOb0JvK1lHOUtuMTlKZWw3eldoMmxKRnJmWlFZOEVlTHhtUEYzYXloVENyMmU2L2NGQllJWXJ1UzNMZGJ6QW9HZ1ZxQ2pyNWVGS0FVSmx0TVFFTVE9PRgAIAIoAjDG/P/gvf38AjjhuZGK4DBAqt3U/eEwShxadHJuVEZGOUsyYlpJNm0xcFFiNnZYdEtGdGs9Wh8iHbxpempwMnJtQnVyYmxNVEJ5aU1WbzYvRGJVNFk9Zc8wr74S6wEIChLmAQocSS96ampabFlJTDJxSy9LR1UxZitkZmFpNlFNPRJmWjpBRHF0QVp5QTBvUjJpa05vQm8rWUc5S24xOUpld3ZPY3p5aW94bmNINWJSS2dpYzBYWGx6U1VnbGF1RkxwK1Z5K2NiM0RxSzk4UHduSVhpaXdYZTQ5c2NSQmpTQ3dpWTZKZz09GAAgAigCMMb8/+C9/fwCOI2Z/fLeMECp3dT94TBKHHVKai83NzczMXBaaXVFanlaWHh2ODZxbytiVT1aHiIceUNUWFRQTVJhNFMxemUwaVhhdzRlUEhzVmUwPWUo0OGpEusBCAkS5gEKHEdhdmNjUVd3cHE4Ui94am9pa1l6QXkwRmxoOD0SZlo6QURxdEFaeUEwb1IyaWtOb0JvK1lHOUtuMTlKZXB0NjlEYkR0ajVGTHlpNTN6YWF4dzNzTldqVWlhR3BtQmMvQVNUVDV1RzAxbEVMTnlYQVIyQmwzS1hyM3BQU2ZORVVtaWc9PRgAIAIoAjDG/P/gvf38Ajiaq7jx3jBAqd3U/eEwShx0NXQ5M2toSnc0L1hEem1HVjZZeFdCanJMM1E9Wh4iHGdkc1ZWc2xxdE4wa0thNURrb1BwcVp3N01KZz1lsVldNBKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnhqZFVCbHZNR2kxRDBVNStPemg5SS9GbkpyUm5XMDlYL3hTQnpGRVp4VjJSaERNNGtFZSszRmdKa2E2Q29MWDZObnFBa1kYACAAKAAwhces3L39/AI4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnhhS1VBK2Z1L0Y4Y0RlMFM0MkR3WmhEK1MxSDlVbnp1TU00TmlhaHVMS1RuSVd1WGZUUlV2R3BiY014T0ZTSlk1YWNETWNnQnI0aHU0aE9ReTRpeVJ0SGVYN0dnPT0YACAAKAAwhces3L39/AI4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAADABOAA=",
+   "version": 1
+}

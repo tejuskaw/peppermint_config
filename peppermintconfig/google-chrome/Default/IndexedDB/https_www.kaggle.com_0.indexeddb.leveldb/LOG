@@ -1,0 +1,18 @@
+2023/02/05-09:28:52.330 c3a Creating DB /home/kaw/.config/google-chrome/Default/IndexedDB/https_www.kaggle.com_0.indexeddb.leveldb since it was missing.
+2023/02/05-09:28:52.999 c3a Reusing MANIFEST /home/kaw/.config/google-chrome/Default/IndexedDB/https_www.kaggle.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/05-09:28:54.165 35a Level-0 table #5: started
+2023/02/05-09:28:54.320 35a Level-0 table #5: 1226 bytes OK
+2023/02/05-09:28:54.555 35a Delete type=0 #3
+2023/02/05-09:28:54.556 35a Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/02/05-09:55:11.960 c73 Level-0 table #7: started
+2023/02/05-09:55:13.191 c73 Level-0 table #7: 3378 bytes OK
+2023/02/05-09:55:14.163 c73 Delete type=0 #4
+2023/02/05-09:55:14.259 262b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/02/05-09:55:14.260 262d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x010\x00G\x00l\x00o\x00b\x00a\x00l\x00!\x001\x00:\x009\x001\x008\x005\x007\x003\x007\x003\x002\x007\x008\x001\x00:\x00w\x00e\x00b\x00:\x00a\x005\x001\x00c\x006\x009\x002\x00b\x000\x002\x00f\x00b\x00e\x005\x005\x005\x00f\x001\x008\x007\x002\x004' @ 122 : 1
+2023/02/05-09:55:14.260 262d Compacting 1@1 + 1@2 files
+2023/02/05-09:55:15.134 262d Generated table #8@1: 36 keys, 2454 bytes
+2023/02/05-09:55:15.137 262d Compacted 1@1 + 1@2 files => 2454 bytes
+2023/02/05-09:55:15.481 262d compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/02/05-09:55:15.482 262d Delete type=2 #5
+2023/02/05-09:55:15.482 262d Delete type=2 #7
+2023/02/05-09:55:15.482 262d Manual compaction at level-1 from '\x00\x03\x01\x02\x010\x00G\x00l\x00o\x00b\x00a\x00l\x00!\x001\x00:\x009\x001\x008\x005\x007\x003\x007\x003\x002\x007\x008\x001\x00:\x00w\x00e\x00b\x00:\x00a\x005\x001\x00c\x006\x009\x002\x00b\x000\x002\x00f\x00b\x00e\x005\x005\x005\x00f\x001\x008\x007\x002\x004' @ 122 : 1 .. (end); will stop at (end)

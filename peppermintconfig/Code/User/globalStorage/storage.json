@@ -1,0 +1,33 @@
+{
+    "userDataProfilesMigration": true,
+    "profileAssociations": {
+        "workspaces": {},
+        "emptyWindows": {
+            "1675569976180": "__default__profile__"
+        }
+    },
+    "profileAssociationsMigration": true,
+    "telemetry.machineId": "66169e1aa89e595d61ea6d6605a943043cab8d64e71bffd12f92da98c66c8781",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1675569976180"
+            }
+        ]
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/kaw/.config/Code/Backups/1675569976180",
+            "uiState": {
+                "mode": 1,
+                "x": 172,
+                "y": 20,
+                "width": 1024,
+                "height": 743
+            }
+        },
+        "openedWindows": []
+    }
+}

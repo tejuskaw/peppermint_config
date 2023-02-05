@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Peppermint Hub
+Comment=This will open the Pep Hub
+Exec=python3 hub.py
+Icon=peppermint-hub-128
+Path=/opt/pypep
+Terminal=false
+StartupNotify=false

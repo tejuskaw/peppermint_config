@@ -1,0 +1,6 @@
+2023/02/05-09:20:42.475 3 Reusing MANIFEST /home/kaw/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/02/05-09:20:42.753 3 Recovering log #36
+2023/02/05-09:20:43.208 3 Reusing old log /home/kaw/.config/google-chrome/Default/Local Storage/leveldb/000036.log 
+2023/02/05-09:25:02.575 9 Level-0 table #41: started
+2023/02/05-09:25:02.672 9 Level-0 table #41: 26144 bytes OK
+2023/02/05-09:25:02.874 9 Delete type=0 #36

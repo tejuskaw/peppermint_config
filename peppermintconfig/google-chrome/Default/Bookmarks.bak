@@ -1,0 +1,58 @@
+{
+   "checksum": "456c45b3d439c51aa060436d08eee3a7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13319999693617502",
+            "date_last_used": "0",
+            "guid": "55f2ebf6-bc8f-457d-b5d4-77fd1fdc2876",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Install and configure Openbox (Arch linux update) | by Miguel Sampaio da Veiga | Hacker Toolbelt | Medium",
+            "type": "url",
+            "url": "https://medium.com/hacker-toolbelt/install-and-configure-openbox-f326790bdb08"
+         }, {
+            "date_added": "13320002159616795",
+            "date_last_used": "0",
+            "guid": "1c951540-31f5-42a1-b42c-3dddbe2cd5fa",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Network Intrusion Detection - Demo | Kaggle",
+            "type": "url",
+            "url": "https://www.kaggle.com/code/docxian/network-intrusion-detection-demo#Predict-on-test-set"
+         } ],
+         "date_added": "13319999162738673",
+         "date_last_used": "0",
+         "date_modified": "13320002159616795",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13319999162738681",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13319999162738686",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
